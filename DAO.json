@@ -1,0 +1,731 @@
+[
+    {
+        "id": "0001",
+        "description": "Elote",
+        "price": 15.6,
+        "classification": "verdura",
+        "stock": 21,
+        "minStock": 10,
+        "maxStock": 50
+    },
+    {
+        "id": "1",
+        "description": "Algodón",
+        "price": 25.25,
+        "classification": "farmacia",
+        "stock": 14,
+        "minStock": 5,
+        "maxStock": 23
+    },
+    {
+        "id": "2",
+        "description": "Refresco de uva",
+        "price": 11.95,
+        "classification": "bebidas",
+        "stock": 32,
+        "minStock": 20,
+        "maxStock": 60
+    },
+    {
+        "id": "3",
+        "description": "Maruchan",
+        "price": 15.68,
+        "classification": "comida chatarra",
+        "stock": 24,
+        "minStock": 8,
+        "maxStock": 30
+    },
+    {
+        "id": "4",
+        "description": "Aceite azul",
+        "price": 21.11,
+        "classification": "cocina",
+        "stock": 17,
+        "minStock": 10,
+        "maxStock": 45
+    },
+    {
+        "id": "5",
+        "description": "Chocomilk",
+        "price": 18.14,
+        "classification": "dulce",
+        "stock": 20,
+        "minStock": 15,
+        "maxStock": 57
+    },
+    {
+        "id": "6",
+        "description": "Piña",
+        "price": 18.19,
+        "classification": "verdura",
+        "stock": 15,
+        "minStock": 20,
+        "maxStock": 52
+    },
+    {
+        "id": "7",
+        "description": "Nutella",
+        "price": 57.35,
+        "classification": "dulce",
+        "stock": 12,
+        "minStock": 9,
+        "maxStock": 31
+    },
+    {
+        "id": "8",
+        "description": "Fresa",
+        "price": 28.59,
+        "classification": "fruta",
+        "stock": 33,
+        "minStock": 11,
+        "maxStock": 89
+    },
+    {
+        "id": "9",
+        "description": "Pimienta",
+        "price": 15.79,
+        "classification": "cocina",
+        "stock": 18,
+        "minStock": 5,
+        "maxStock": 34
+    },
+    {
+        "id": "10",
+        "description": "Atún",
+        "price": 17.48,
+        "classification": "comida de mar",
+        "stock": 22,
+        "minStock": 15,
+        "maxStock": 46
+    },
+    {
+        "id": "11",
+        "description": "Manzana",
+        "price": 14.77,
+        "classification": "fruta",
+        "stock": 35,
+        "minStock": 25,
+        "maxStock": 100
+    },
+    {
+        "id": "12",
+        "description": "Tomates",
+        "price": 16.39,
+        "classification": "verdura",
+        "stock": 16,
+        "minStock": 24,
+        "maxStock": 155
+    },
+    {
+        "id": "13",
+        "description": "Alcohol",
+        "price": 13.02,
+        "classification": "farmacia",
+        "stock": 70,
+        "minStock": 15,
+        "maxStock": 149
+    },
+    {
+        "id": "14",
+        "description": "Frijoles",
+        "price": 18.79,
+        "classification": "varios",
+        "stock": 26,
+        "minStock": 15,
+        "maxStock": 58
+    },
+    {
+        "id": "15",
+        "description": "Kiwi",
+        "price": 20.31,
+        "classification": "fruta",
+        "stock": 58,
+        "minStock": 25,
+        "maxStock": 127
+    },
+    {
+        "id": "16",
+        "description": "Durazno",
+        "price": 14.18,
+        "classification": "fruta",
+        "stock": 64,
+        "minStock": 59,
+        "maxStock": 133
+    },
+    {
+        "id": "17",
+        "description": "Agua oxigenada",
+        "price": 19.49,
+        "classification": "farmacia",
+        "stock": 47,
+        "minStock": 34,
+        "maxStock": 112
+    },
+    {
+        "id": "18",
+        "description": "Harina de hotcakes",
+        "price": 15.12,
+        "classification": "panaderia",
+        "stock": 74,
+        "minStock": 4,
+        "maxStock": 185
+    },
+    {
+        "id": "19",
+        "description": "Lechuga",
+        "price": 16.76,
+        "classification": "verdura",
+        "stock": 14,
+        "minStock": 7,
+        "maxStock": 40
+    },
+    {
+        "id": "20",
+        "description": "Sopa de estrellas",
+        "price": 21.48,
+        "classification": "pastas",
+        "stock": 69,
+        "minStock": 25,
+        "maxStock": 157
+    },
+    {
+        "id": "21",
+        "description": "Jugo de guayaba",
+        "price": 29.66,
+        "classification": "bebidas",
+        "stock": 75,
+        "minStock": 67,
+        "maxStock": 151
+    },
+    {
+        "id": "22",
+        "description": "Guayaba",
+        "price": 22.7,
+        "classification": "fruta",
+        "stock": 29,
+        "minStock": 3,
+        "maxStock": 84
+    },
+    {
+        "id": "23",
+        "description": "Miel",
+        "price": 17.01,
+        "classification": "varios",
+        "stock": 53,
+        "minStock": 23,
+        "maxStock": 124
+    },
+    {
+        "id": "24",
+        "description": "Spaghetti",
+        "price": 14.05,
+        "classification": "pastas",
+        "stock": 49,
+        "minStock": 29,
+        "maxStock": 98
+    },
+    {
+        "id": "25",
+        "description": "Café",
+        "price": 28.86,
+        "classification": "varios",
+        "stock": 80,
+        "minStock": 64,
+        "maxStock": 195
+    },
+    {
+        "id": "26",
+        "description": "Té de manzanilla",
+        "price": 26.21,
+        "classification": "varios",
+        "stock": 56,
+        "minStock": 11,
+        "maxStock": 143
+    },
+    {
+        "id": "27",
+        "description": "Jugo de durazno",
+        "price": 27.81,
+        "classification": "bebidas",
+        "stock": 76,
+        "minStock": 23,
+        "maxStock": 188
+    },
+    {
+        "id": "28",
+        "description": "Sandwiche",
+        "price": 18.5,
+        "classification": "panaderia",
+        "stock": 25,
+        "minStock": 2,
+        "maxStock": 73
+    },
+    {
+        "id": "29",
+        "description": "Granola",
+        "price": 29.97,
+        "classification": "varios",
+        "stock": 51,
+        "minStock": 37,
+        "maxStock": 124
+    },
+    {
+        "id": "30",
+        "description": "Avena",
+        "price": 25.26,
+        "classification": "varios",
+        "stock": 59,
+        "minStock": 46,
+        "maxStock": 163
+    },
+    {
+        "id": "31",
+        "description": "Yogurt",
+        "price": 27.61,
+        "classification": "lácteo",
+        "stock": 21,
+        "minStock": 4,
+        "maxStock": 59
+    },
+    {
+        "id": "32",
+        "description": "Leche",
+        "price": 22.48,
+        "classification": "lácteo",
+        "stock": 38,
+        "minStock": 20,
+        "maxStock": 114
+    },
+    {
+        "id": "33",
+        "description": "Crema",
+        "price": 14.35,
+        "classification": "lácteo",
+        "stock": 23,
+        "minStock": 10,
+        "maxStock": 58
+    },
+    {
+        "id": "34",
+        "description": "Arroz",
+        "price": 22.97,
+        "classification": "abarrote",
+        "stock": 3,
+        "minStock": 1,
+        "maxStock": 7
+    },
+    {
+        "id": "35",
+        "description": "Limón",
+        "price": 13.55,
+        "classification": "verdura",
+        "stock": 62,
+        "minStock": 18,
+        "maxStock": 179
+    },
+    {
+        "id": "36",
+        "description": "Agua potable",
+        "price": 28.96,
+        "classification": "bebidas",
+        "stock": 9,
+        "minStock": 6,
+        "maxStock": 21
+    },
+    {
+        "id": "37",
+        "description": "Sardinas",
+        "price": 21.01,
+        "classification": "comida de mar",
+        "stock": 67,
+        "minStock": 61,
+        "maxStock": 143
+    },
+    {
+        "id": "38",
+        "description": "Sandía",
+        "price": 25.88,
+        "classification": "fruta",
+        "stock": 8,
+        "minStock": 1,
+        "maxStock": 16
+    },
+    {
+        "id": "39",
+        "description": "Pasta de moño",
+        "price": 15.18,
+        "classification": "pastas",
+        "stock": 43,
+        "minStock": 38,
+        "maxStock": 115
+    },
+    {
+        "id": "40",
+        "description": "Naranjas",
+        "price": 21.32,
+        "classification": "fruta",
+        "stock": 26,
+        "minStock": 22,
+        "maxStock": 73
+    },
+    {
+        "id": "41",
+        "description": "Plátano",
+        "price": 27.14,
+        "classification": "fruta",
+        "stock": 78,
+        "minStock": 77,
+        "maxStock": 184
+    },
+    {
+        "id": "42",
+        "description": "Pollo",
+        "price": 19.18,
+        "classification": "carne",
+        "stock": 26,
+        "minStock": 9,
+        "maxStock": 54
+    },
+    {
+        "id": "43",
+        "description": "Pan integral",
+        "price": 23.32,
+        "classification": "panaderia",
+        "stock": 30,
+        "minStock": 15,
+        "maxStock": 61
+    },
+    {
+        "id": "44",
+        "description": "Jabón",
+        "price": 15.13,
+        "classification": "varios",
+        "stock": 38,
+        "minStock": 29,
+        "maxStock": 80
+    },
+    {
+        "id": "45",
+        "description": "Carne molida",
+        "price": 11.73,
+        "classification": "carne",
+        "stock": 46,
+        "minStock": 34,
+        "maxStock": 117
+    },
+    {
+        "id": "46",
+        "description": "Tortillas",
+        "price": 10.03,
+        "classification": "panaderia",
+        "stock": 18,
+        "minStock": 18,
+        "maxStock": 70
+    },
+    {
+        "id": "47",
+        "description": "Bida jugo",
+        "price": 12.19,
+        "classification": "bebidas",
+        "stock": 25,
+        "minStock": 15,
+        "maxStock": 48
+    },
+    {
+        "id": "48",
+        "description": "Flan",
+        "price": 20.18,
+        "classification": "dulce",
+        "stock": 25,
+        "minStock": 4,
+        "maxStock": 61
+    },
+    {
+        "id": "49",
+        "description": "Pastel de chocolate",
+        "price": 99.99,
+        "classification": "panaderia",
+        "stock": 3,
+        "minStock": 2,
+        "maxStock": 7
+    },
+    {
+        "id": "50",
+        "description": "Elote",
+        "price": 15.6,
+        "classification": "verdura",
+        "stock": 21,
+        "minStock": 10,
+        "maxStock": 50
+    },
+    {
+        "id": "51",
+        "description": "Cilantro",
+        "price": 25.25,
+        "classification": "verdura",
+        "stock": 14,
+        "minStock": 5,
+        "maxStock": 23
+    },
+    {
+        "id": "52",
+        "description": "Crema",
+        "price": 11.95,
+        "classification": "belleza",
+        "stock": 32,
+        "minStock": 20,
+        "maxStock": 60
+    },
+    {
+        "id": "53",
+        "description": "Shampoo",
+        "price": 15.68,
+        "classification": "belleza",
+        "stock": 24,
+        "minStock": 8,
+        "maxStock": 30
+    },
+    {
+        "id": "54",
+        "description": "Cepillo de dientes",
+        "price": 21.11,
+        "classification": "belleza",
+        "stock": 17,
+        "minStock": 10,
+        "maxStock": 45
+    },
+    {
+        "id": "55",
+        "description": "Pasta dental",
+        "price": 18.14,
+        "classification": "belleza",
+        "stock": 20,
+        "minStock": 15,
+        "maxStock": 57
+    },
+    {
+        "id": "56",
+        "description": "Perejil",
+        "price": 18.19,
+        "classification": "verdura",
+        "stock": 15,
+        "minStock": 20,
+        "maxStock": 52
+    },
+    {
+        "id": "57",
+        "description": "Té de limón",
+        "price": 17.35,
+        "classification": "varios",
+        "stock": 12,
+        "minStock": 9,
+        "maxStock": 31
+    },
+    {
+        "id": "58",
+        "description": "Aguacate",
+        "price": 28.59,
+        "classification": "verdura",
+        "stock": 33,
+        "minStock": 11,
+        "maxStock": 89
+    },
+    {
+        "id": "59",
+        "description": "Sal",
+        "price": 15.79,
+        "classification": "cocina",
+        "stock": 18,
+        "minStock": 5,
+        "maxStock": 34
+    },
+    {
+        "id": "60",
+        "description": "Sal con pimienta",
+        "price": 17.48,
+        "classification": "cocina",
+        "stock": 22,
+        "minStock": 15,
+        "maxStock": 46
+    },
+    {
+        "id": "61",
+        "description": "Pepino",
+        "price": 14.77,
+        "classification": "verdura",
+        "stock": 35,
+        "minStock": 25,
+        "maxStock": 100
+    },
+    {
+        "id": "62",
+        "description": "Apio",
+        "price": 16.39,
+        "classification": "verdura",
+        "stock": 16,
+        "minStock": 24,
+        "maxStock": 155
+    },
+    {
+        "id": "63",
+        "description": "Cebolla",
+        "price": 13.02,
+        "classification": "verdura",
+        "stock": 70,
+        "minStock": 15,
+        "maxStock": 149
+    },
+    {
+        "id": "64",
+        "description": "Ajos",
+        "price": 18.79,
+        "classification": "verdura",
+        "stock": 26,
+        "minStock": 15,
+        "maxStock": 58
+    },
+    {
+        "id": "65",
+        "description": "Madarina",
+        "price": 20.31,
+        "classification": "fruta",
+        "stock": 58,
+        "minStock": 25,
+        "maxStock": 127
+    },
+    {
+        "id": "66",
+        "description": "Toronja",
+        "price": 14.18,
+        "classification": "fruta",
+        "stock": 64,
+        "minStock": 59,
+        "maxStock": 133
+    },
+    {
+        "id": "67",
+        "description": "Hilo dental",
+        "price": 19.49,
+        "classification": "farmacia",
+        "stock": 47,
+        "minStock": 34,
+        "maxStock": 112
+    },
+    {
+        "id": "68",
+        "description": "Tortillas de harina",
+        "price": 15.12,
+        "classification": "panaderia",
+        "stock": 74,
+        "minStock": 4,
+        "maxStock": 185
+    },
+    {
+        "id": "69",
+        "description": "Acelgas",
+        "price": 16.76,
+        "classification": "verdura",
+        "stock": 14,
+        "minStock": 7,
+        "maxStock": 40
+    },
+    {
+        "id": "70",
+        "description": "Sopa de letras",
+        "price": 21.48,
+        "classification": "pastas",
+        "stock": 69,
+        "minStock": 25,
+        "maxStock": 157
+    },
+    {
+        "id": "71",
+        "description": "Jugo de piña",
+        "price": 29.66,
+        "classification": "bebidas",
+        "stock": 75,
+        "minStock": 67,
+        "maxStock": 151
+    },
+    {
+        "id": "72",
+        "description": "Uvas",
+        "price": 22.7,
+        "classification": "fruta",
+        "stock": 29,
+        "minStock": 3,
+        "maxStock": 84
+    },
+    {
+        "id": "73",
+        "description": "Escoba",
+        "price": 17.01,
+        "classification": "varios",
+        "stock": 53,
+        "minStock": 23,
+        "maxStock": 124
+    },
+    {
+        "id": "74",
+        "description": "Pasta penne",
+        "price": 14.05,
+        "classification": "pastas",
+        "stock": 49,
+        "minStock": 29,
+        "maxStock": 98
+    },
+    {
+        "id": "75",
+        "description": "Café descafeinado",
+        "price": 28.86,
+        "classification": "varios",
+        "stock": 80,
+        "minStock": 64,
+        "maxStock": 195
+    },
+    {
+        "id": "76",
+        "description": "Té de hierbabuena",
+        "price": 26.21,
+        "classification": "varios",
+        "stock": 56,
+        "minStock": 11,
+        "maxStock": 143
+    },
+    {
+        "id": "77",
+        "description": "Jugo verde",
+        "price": 27.81,
+        "classification": "bebidas",
+        "stock": 76,
+        "minStock": 23,
+        "maxStock": 188
+    },
+    {
+        "id": "78",
+        "description": "Pizza",
+        "price": 18.5,
+        "classification": "panaderia",
+        "stock": 25,
+        "minStock": 2,
+        "maxStock": 73
+    },
+    {
+        "id": "79",
+        "description": "Mole",
+        "price": 29.97,
+        "classification": "varios",
+        "stock": 51,
+        "minStock": 37,
+        "maxStock": 124
+    },
+    {
+        "id": "80",
+        "description": "Jamón",
+        "price": 25.26,
+        "classification": "carne",
+        "stock": 59,
+        "minStock": 46,
+        "maxStock": 163
+    }
+]
